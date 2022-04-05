@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class ungdung_tinhtienlai {
     public static void main(String[] args) {
-        double gui = 1.0;
+        double gui;
         int thang=1;
         double lai=1.0;
         Scanner input = new Scanner(System.in);

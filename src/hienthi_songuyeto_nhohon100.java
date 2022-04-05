@@ -3,6 +3,7 @@ public class hienthi_songuyeto_nhohon100 {
         int i = 0;
         int num = 0;
         String primeNumbers = "";
+
         for (i = 1; i <= 100; i++) {
             int count = 0;
             for (num = i; num >= 1; num--) {
