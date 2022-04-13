@@ -1,6 +1,7 @@
 package KeThua;
 
-public class LopPoint {
+public class PointVaMove {
+
 
 
 
